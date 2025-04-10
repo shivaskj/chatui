@@ -1,7 +1,7 @@
 const ChatHistory = () => {
   const chatSections = [
     {
-      title: 'Last 7 Days',
+      title: 'Last 7 hours d',
       items: [
         'User Greets with a Simple Hi',
         'User Greets with a Hi',
