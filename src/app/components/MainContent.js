@@ -4,7 +4,7 @@ import { IoAttachOutline, IoArrowUp  } from "react-icons/io5";
 const MainContent = () => {
   const cards = [
     {
-      title: "Forecast vs Actual Sales",
+      title: "main change 1",
       subtitle: "Top Forecasted Sales 2024",
     },
     {
