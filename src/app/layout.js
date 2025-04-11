@@ -4,7 +4,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = { 
-  title: 'ChatUI dev fetch change check 1.3',
+  title: 'ChatUI dev fetch change check 1.4',
   description: 'A chat application',
 }
 
